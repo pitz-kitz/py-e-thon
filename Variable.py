@@ -6,7 +6,6 @@ lastname = "kiarie"
 school = "eMobilis"
 x = 39
 y = 2
-z = 78
 
 print(location)
 print(firstname)
@@ -16,4 +15,4 @@ print(firstname, lastname)
 print("My fullname is", firstname,lastname)
 print(school,"is a boarding school")
 print(x + y)
-print("The product of",x,"and",y,"is",z)
+print("The product of",x,"and",y,"is",x*y)
