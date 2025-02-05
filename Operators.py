@@ -29,5 +29,5 @@ print(number)
 
 # Logical Operators - and, or, not
 print( 55 < 234 and 67 < 23)
-print( 55 < 234 or 67 < 23)
-print(not (55 < 234 or 67 < 23))
+print( 55 > 234 or 67 > 23)
+print(not (55 > 234 or 67 > 23))
