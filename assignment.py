@@ -4,7 +4,7 @@
 # 2. A python program that checks whether
 # letter is a vowel or a consonant
 
-year = 2024
+year = 2025
 
 if (year % 4 == 0 and year % 100 != 0):
     print(year, "is a leap year")
@@ -14,10 +14,14 @@ else:
 
     #2
 
-letter = "p"
+letter = 'F'
 if letter in ("a","e","i","o","u"):
     print("vowel")
 elif letter in ("A","E","I","O","U"):
     print("vowel")
 else:
     print("consonant")
+
+
+
+Letter =
